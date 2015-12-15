@@ -18,7 +18,7 @@ namespace Overtrue\Wechat\Utils;
 /**
  * XML 工具类，用于构建与解析 XML
  */
-class XML
+class XMLs
 {
 
     /**
